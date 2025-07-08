@@ -1,11 +1,10 @@
 # CheckBoxOCR
 
 A CLI tool to detect checked and unchecked checkboxes from PDFs and images.
-(c.pdf is a sample pdf file to ensure the model runs)
+
 ---
 
 ## How to use
-
 Run the executable from the `CheckBoxOCR` folder with your file as an argument:
 
 ```bash
@@ -33,6 +32,7 @@ Supported input file types:
 ---
 
 ## Integration
+(c.pdf is a sample pdf file to ensure the model runs)
 
 You can integrate this tool into your own automation or pipelines by calling the binary directly.
 (Replace yourfile.pdf with the image or PDF you want to use)

@@ -54,3 +54,6 @@ This makes it easy to include checkbox detection in document processing systems 
 ---
 
 This is a packaged tool, there is no need to install any other packages. 
+
+Any Problems? Feel free to raise them via the issues tab.
+Improvements in the model will be released bi-monthly.  

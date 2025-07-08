@@ -1,7 +1,7 @@
 # CheckBoxOCR
 
 A CLI tool to detect checked and unchecked checkboxes from PDFs and images.
-
+(c.pdf is a sample pdf file to ensure the model runs)
 ---
 
 ## How to use

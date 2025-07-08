@@ -5,6 +5,7 @@ A CLI tool to detect checked and unchecked checkboxes from PDFs and images.
 <img width="400" alt="Screenshot 2025-07-08 at 20 28 55" src="https://github.com/user-attachments/assets/3d8ac7b5-f59c-4e6d-b5cc-4cf35c35bcda" />
 
 This model is optimised (and mainly trained on) computer generated checkboxes. It may struggle with handwritten ones. This will be improved in a future update.
+
 ---
 
 ## How to use
